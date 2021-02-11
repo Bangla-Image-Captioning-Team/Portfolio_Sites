@@ -113,8 +113,8 @@ class Contact extends React.Component {
       <div id="contact">
         {modalRender}
         <div className="wrapper">
-          <Title title="CONTACT US." />
-          <p className="font12">
+          <Title title="CONTACT ME" />
+          {/* <p className="font12">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt<br></br>ut labore et dolore magna aliqua.
           </p>
 
@@ -141,7 +141,7 @@ class Contact extends React.Component {
                 <img src={ContactBackground} alt="contact background" />
               </div>
             </Col>
-          </Row>
+          </Row> */}
           <ContactInfo />
           <ContactSocial />
         </div>
