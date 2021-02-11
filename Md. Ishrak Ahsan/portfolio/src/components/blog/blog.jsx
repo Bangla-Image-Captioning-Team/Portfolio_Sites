@@ -106,9 +106,9 @@ class Blog extends React.Component {
     return (
       <div className="blog" id="blog">
         <div className="wrapper">
-          <Title title="OUR BLOG." />
-          <p className="font12">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt<br></br>ut labore et dolore magna aliqua.
+          <Title title="ACHIEVEMENTS" />
+          <p className="font20">
+            Here are some of my achievements.
           </p>
           <div className="padding30">
             <Swiper {...params}>{storiesRender}</Swiper>
