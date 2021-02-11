@@ -68,9 +68,9 @@ class App extends React.Component {
           mobileMenuOpen={this.mobileMenuOpen}
         />
         <Hero />
-        <Portfolio />
         {/* <Partners /> */}
         <About />
+        <Portfolio />
         <Blog />
         <Contact />
         <Footer />
