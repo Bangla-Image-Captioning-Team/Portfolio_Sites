@@ -29,9 +29,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-          “We can’t waste time worrying about the what if’s.” 
+          “Life is not a game of luck. If you wanna win, work hard.”
           </p>
-          <footer className="blockquote-footer">Ichigo Kurosaki</footer>
+          <footer className="blockquote-footer">Sora</footer>
         </blockquote>
       </Card.Body>
     </Card>
